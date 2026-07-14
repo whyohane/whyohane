@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Yohane 👩🏻‍💻👋🏻🐈‍⬛
 
-<!--
-**whyohane/whyohane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Computer Engineering Student - IFCE
+- 💻 iOS Developer @ Apple Developer Academy
+- 🖋️ UI/UX Designer in my free time
+- ✨ Lover of cats, capuccino, books and anime
+- 📍 Fortaleza, Brazil
 
-Here are some ideas to get you started:
+## 
+<p align="center">
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=whyohane&show_icons=true&hide_border=false&theme=midnight-purple&include_all_commits=true" alt="Yohane's GitHub" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=whyohane&theme=midnight-purple&hide_border=false" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=whyohane&layout=compact&hide_border=false&theme=midnight-purple&card_width=400" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitors](https://komarev.com/ghpvc/?username=whyohane&color=70A5FD)
+
