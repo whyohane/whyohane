@@ -1,4 +1,4 @@
-## Hi, I'm Yohane 👩🏻‍💻👋🏻🐈‍⬛
+## Hi, I'm Yohane 👩🏻‍💻👋🏻
 
 - 📚 Computer Engineering Student - IFCE
 - 💻 iOS Developer @ Apple Developer Academy
